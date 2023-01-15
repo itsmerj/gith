@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 it is not the same!plzz
 help me.plzz!
+=======
+this is it!
+>>>>>>> plot-twist
